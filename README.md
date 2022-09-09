@@ -12,4 +12,4 @@
 git clone https://git@github.com:wesleiSLima/treino-javascript.git
 ```
 
-Esse readme é a tarefa da aula
+Esse readme é a tarefa da aula do dia 09/09/2022
